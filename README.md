@@ -1,3 +1,5 @@
-- 👋 Hi I Am A Frontend Dev
- -  💞️ Html - Css - Javascript ( ReactJS , TailwindCss , Scss , Typescript )
-- 👀Know RESTful API , MongoDB , Sql , Firebase
+ - 👋 Hi I Am A Frontend Dev
+ -  💞️ Language: Html - Css - Javascript - Typescript - NodeJs 
+ -  💞️  Framework: ReactJS - TailwindCss - Scss
+ -  💞️ Database: MongoDB , Sql , Firebase
+ -  👀 RESTful API 
